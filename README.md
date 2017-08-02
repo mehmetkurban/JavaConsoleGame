@@ -1,2 +1,2 @@
-# TestRepository
-Bu bir testdir.
+# Hazarliç
+Bu bir zar oyunudur.
