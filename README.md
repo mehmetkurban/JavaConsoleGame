@@ -1,2 +1,2 @@
 # Hazarliç
-Bu bir zar oyunudur.
+JavaSE coding without interface design
