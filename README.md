@@ -1,2 +1,2 @@
-# Hazarliç (Dice game)
+# Hazarliç (Special Dice game)
 JavaSE coding without interface design
